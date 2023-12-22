@@ -1,0 +1,5 @@
+mae_ = 'mae'
+mse_ = 'mse'
+r2_ = 'r2_keras'
+rmse_ = 'rmse'
+MAPE_ = 'MAPE'

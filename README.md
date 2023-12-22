@@ -18,7 +18,7 @@ parameters (fluid pressure, fluid flow rate, etc.) to maintain lower ranges of f
 
 ## Citing
 
-If you use the proposed simulation in your work, please cite the accompanying [paper]:
+If you use the proposed code or the dataset in your work, please cite the accompanying [paper]:
 
 ```bibtex
 @article{salah2023forecasting,
